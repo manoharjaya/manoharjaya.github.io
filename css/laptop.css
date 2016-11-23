@@ -1,0 +1,213 @@
+/* ----------- Non-Retina Screens ----------- */
+@media screen and (min-device-width: 1200px) and (max-device-width: 1600px) and (-webkit-min-device-pixel-ratio: 1) { 
+.buyerimg
+{
+	width:100%;
+	margin-left:22%;
+}
+.epaylgimg
+{
+	width: 30%;
+    margin-left: 7%;
+}
+.epaylg
+{
+	padding-top: 1px;
+}
+.copy
+{
+	margin-top: 10%;
+}
+.footermargin
+{
+	margin-top:2%;
+}
+h3
+{
+	font-size: 15pt;
+	font-family: "segoe ui";
+	font-weight: lighter;
+}
+h2
+{
+	font-size: 30px;
+	font-family: "segoe ui";
+	font-weight: lighter;
+}
+p
+{
+	font-size: 13pt;
+}
+
+}
+
+/* ----------- Retina Screens ----------- */
+@media screen and (min-device-width: 1200px) and (max-device-width: 1600px) and (-webkit-min-device-pixel-ratio: 2) and (min-resolution: 192dpi) { 
+
+ .buyerimg
+{
+	width:100%;
+	margin-left:22%;
+}
+.epaylgimg
+{
+	width: 30%;
+    margin-left: 7%;
+}
+.epaylg
+{
+	padding-top: 1px;
+}
+.copy
+{
+	margin-top: 14%;
+}
+
+.footermargin
+{
+	margin-top:2%;
+}
+h3
+{
+	font-size: 15pt;
+	font-family: "segoe ui";
+	font-weight: lighter;
+}
+h2
+{
+	font-size: 30px;
+	font-family: "segoe ui";
+	font-weight: lighter;
+}
+p
+{
+	font-size: 13pt;
+}
+
+}
+
+/* ----------- Galaxy S3 ----------- */
+
+/* Portrait and Landscape */
+@media screen and (device-width: 320px) and (device-height: 640px) and (-webkit-device-pixel-ratio: 2) {
+
+
+}
+
+
+/* ----------- Asus Nexus 7 ----------- */
+/* Portrait */
+@media screen   and (device-width: 601px)   and (device-height: 906px)   and (-webkit-min-device-pixel-ratio: 1.331)   and (-webkit-max-device-pixel-ratio: 1.332)  and (orientation: landscape) {
+
+	.wel
+{
+	margin-left: -24%;
+}
+.pos
+{
+	font-size: 11pt;
+    margin-left:5%;
+}
+.mar
+{
+	margin-top: -7%;
+}
+.myprofile
+{
+	margin-left: 4%;
+    width: 34%;
+}
+h3
+{
+	font-size: 14.5pt;
+	font-family: "segoe ui";
+	font-weight: lighter;
+}
+p
+{
+	font-size:14pt;
+}
+h2
+{
+	font-size:30px;
+	font-family: "segoe ui";
+	font-weight: lighter;
+}
+.linklg
+{
+	padding-top: 1px;
+}
+.linklgimg
+{
+	width:40%;
+    margin-left:30%;
+}
+.buyerimg
+{
+	padding-top: 24%;
+	margin-left: 30%;
+    width: 39%;
+}
+.servicelg
+{
+	padding-top: 1px;
+}
+.saferlg
+{
+	padding-top: 1px;
+}
+.saferlgimg
+{
+	padding-top:5%;
+    width: 30%;
+    margin-left: 33%;
+}
+.epaylg
+{
+	padding-top: 1px;
+}
+.epaylgabout
+{
+	padding-left:16%;
+}
+.epaylgimg
+{
+	width: 30%;
+    margin-left: 30%;
+    padding-top:15%;
+}
+.shortlgborder
+{
+	border-color: transparent;
+	border: none;
+	border-left: none;
+}
+.footlg
+{
+	margin-bottom: -11%;
+}
+.signtxtpos
+{
+	padding-top:25%;
+}
+.signimg
+{
+	margin-left: 10%;
+}
+.telllgimg
+{
+	margin-left: 21%;
+}
+.signuphead
+{
+	padding-left: 15%;
+}
+.signuptxt
+{
+	padding-top: 35%;
+	width: 80%;
+    margin-left: 5%;
+}
+
+}
+

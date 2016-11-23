@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon"  href="img/lock.png" />
+    <link rel="stylesheet" href="css/bootstrap.css">
+    <link rel="stylesheet" href="css/floating-labels.css">
+    <style type="text/css" media="screen">
+      body {
+        padding-top: 4em;
+      }
+
+      input, textarea {
+        font-weight: 100;
+      }
+      
+    </style>
+    <script src="js/floatlabelJQ.js"></script>
+    <script src="js/floating-labels.js"></script>
+
+    <title>netPay</title>
+  </head>
+  
+  <body>
+    <div class="container">
+      <div style="text-align:center" class="row">
+         <h1 style="font-family:segoe ui;font-weight:lighter;color:#E91E63">Contact Us</h1>
+      <p>Designed by <a href="#">Manohar</a></p>
+      </div>
+    
+      <form role="form" action="Contact" method="post">
+          <div class="col-md-12" style="font-family:segoe ui">
+            <div class="col-md-offset-3 col-md-6">
+              <div class="row">
+                <div class="form-group col-xs-12 floating-label-form-group">
+                  <label for="title">Email</label>
+                  <input class="form-control" type="email" name="txtconemail" autofocus required maxlength="25" minlength="7" placeholder="Enter Your Email">
+                </div>
+              </div>
+              <div class="row">
+                <div class="form-group col-xs-12 floating-label-form-group">
+                  <label for="price">Subject</label>
+                  <input class="form-control" type="text" required maxlength="100" minlength="5" name="txtconsubject" placeholder="Subject">
+                </div>
+              </div>
+              <div class="row">
+                <div class="form-group col-xs-12 floating-label-form-group">
+                  <label for="description">Description</label>
+                  <textarea placeholder="Description" required minlength="7" name="txtdescription" class="form-control" rows="5"></textarea>
+                </div>
+              </div>
+              <div class="row">
+                <div class="form-group col-xs-12">
+                    <button type="submit" name="btnclick" class="btn btn-default btnClick"
+                      style="width:100%;border: 2px solid;border-color:#E91E63;border-radius:0px;margin-top: 12%;font-family:segoe ui;font-size:14pt">Click</button>
+                </div>
+              </div>
+            </div>
+          </div>
+      </form>
+    </div>
+  </body>
+  </html>

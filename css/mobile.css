@@ -1,0 +1,856 @@
+
+/* ----------- iPhone 4 and 4S ----------- */
+
+/* Portrait and Landscape */
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px)and (-webkit-min-device-pixel-ratio: 2)and (orientation: portrait) {
+.wel
+{
+	margin-top: -11%;
+        margin-left: -34%;
+	font-size: 15pt;
+}
+.pos
+{
+	font-size:8pt;
+	border-left: 0px;
+}
+.mar
+{
+	margin-top: -12%;
+}
+h3
+{
+	font-size: 12pt;
+	font-family: "segoe ui";
+	font-weight: lighter;
+}
+h2
+{
+	font-size: 24px;
+	font-family: "segoe ui";
+	font-weight: lighter;
+}
+p
+{
+	font-size: 10pt;
+}
+.hello
+{
+	font-size: 10pt;
+}
+.myprofile
+{
+	margin-left:6%;
+    width: 60%;
+}
+.mar
+{
+	margin-top: -14%;
+}
+.linklg
+{
+	padding-top: 1px;
+}
+.linklgimg
+{
+	width: 60%;
+    margin-left: 18%;
+}
+.buyerimg
+{
+	padding-top:30%;
+	margin-left:-2%;
+}
+.servicelg
+{
+	padding-top: 1px;
+}
+.saferlg
+{
+	padding-top: 1px;
+}
+.saferlgimg
+{
+	padding-top: 7%;
+    width: 65%;
+    margin-left: 16%;
+}
+.epaylg
+{
+	padding-top: 1px;
+}
+.epaylgimg
+{
+	width: 67%;
+    margin-left: 14%;
+    padding-top:15%;
+}
+.shortlgborder
+{
+	border-color: transparent;
+	border: none;
+	border-left: none;
+}
+.footlg
+{
+	margin-bottom: -11%;
+}
+.signtxtpos
+{
+	padding-top:90%;
+}
+.signfree
+{
+	margin-top:90%;
+}
+.secure
+{
+	padding-left: 22%;
+}
+.signimg
+{
+    width:77%;
+}
+.signuphead
+{
+	padding-left: 15%;
+}
+.signuptxt
+{
+	padding-top: 35%;
+	width: 80%;
+    margin-left: 5%;
+}
+
+}
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px)and (-webkit-min-device-pixel-ratio: 2)and (orientation: landscape) {
+.wel
+{
+	margin-left: -18%;
+}
+.pos
+{
+	font-size:9pt;
+    margin-left:13%;
+}
+.mar
+{
+	margin-top: -7%;
+}
+.myprofile
+{
+	margin-left:2%;
+    width:50%;
+}
+h3
+{
+	font-size: 10pt;
+	font-family: "segoe ui";
+	font-weight: lighter;
+}
+p
+{
+	font-size:10pt;
+	font-weight: lighter;
+}
+h2
+{
+	font-size: 22px;
+}
+.linklg
+{
+	padding-top: 1px;
+}
+.linklgimg
+{
+	width:40%;
+    margin-left:30%;
+}
+.buyerimg
+{
+	padding-top: 20%;
+	margin-left:8%;
+}
+.servicelg
+{
+	padding-top: 1px;
+}
+.saferlg
+{
+	padding-top: 1px;
+}
+.saferlgimg
+{
+	padding-top: 7%;
+    width: 65%;
+    margin-left: 16%;
+}
+.epaylg
+{
+	padding-top: 1px;
+}
+.epaylgabout
+{
+	padding-left:16%;
+}
+.epaylgimg
+{
+	width: 67%;
+    margin-left: 14%;
+    padding-top:15%;
+}
+.shortlgborder
+{
+	border-color: transparent;
+	border: none;
+	border-left: none;
+}
+.footlg
+{
+	margin-bottom: -11%;
+}
+.signtxtpos
+{
+	padding-top:25%;
+}
+.signfree
+{
+	margin-top:50%;
+}
+.signimg
+{
+    width: 59%;
+    padding-left: 19%;
+}
+.telllgimg
+{
+    width: 59%;
+}
+.signuphead
+{
+	padding-left: 15%;
+}
+.signuptxt
+{
+	padding-top: 35%;
+	width: 80%;
+    margin-left: 5%;
+}
+
+
+}
+/* ----------- iPhone 5 and 5S ----------- */
+
+/* Portrait */
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px)and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait){
+.wel
+{
+	font-size: 15pt;
+}
+.divh2
+{
+	margin-left:5%;
+}
+.pos
+{
+	margin-left: 23%;
+	border-left: 0px;
+}
+
+.linklg
+{
+	padding-top: 1px;
+}
+.linklgimg
+{
+	width: 70%;
+    margin-left: 14%;
+}
+.buyerimg
+{
+	padding-top:30%;
+	margin-left:-2%;
+}
+.servicelg
+{
+	padding-top: 1px;
+}
+.saferlg
+{
+	padding-top: 1px;
+}
+.saferlgimg
+{
+	padding-top: 7%;
+    width: 65%;
+    margin-left: 16%;
+}
+.epaylg
+{
+	padding-top: 1px;
+}
+.epaylgimg
+{
+	width: 67%;
+    margin-left: 14%;
+    padding-top:15%;
+}
+.shortlgborder
+{
+	border-color: transparent;
+	border: none;
+	border-left: none;
+}
+.footlg
+{
+	margin-bottom: -11%;
+}
+.signtxtpos
+{
+	padding-top: 33%;
+}
+.signimg
+{
+	margin-left: 10%;
+}
+
+.signuphead
+{
+	padding-left: 15%;
+}
+.signuptxt
+{
+	padding-top: 35%;
+	width: 80%;
+    margin-left: 5%;
+}
+.footermargin
+{
+	margin-top:20%;
+}
+.finalfooter
+{
+	margin-top: 29%;
+}
+
+}
+/* Landscape */
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px)and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape){
+.wel
+{
+	
+}
+.divh2
+{
+	margin-left:-10%;
+}
+
+.pos
+{
+	margin-left: 23%;
+}
+.linklg
+{
+	padding-top: 1px;
+}
+.buyerimg
+{
+	padding-top: 20%;
+	margin-left:15%;
+	width: 55%;
+}
+.servicelg
+{
+	padding-top: 1px;
+}
+.saferlg
+{
+	padding-top: 1px;
+}
+.saferlgimg
+{
+	padding-top: 7%;
+    width: 65%;
+    margin-left: 16%;
+}
+.epaylg
+{
+	padding-top: 1px;
+}
+.epaylgabout
+{
+	padding-left:16%;
+}
+.epaylgimg
+{
+	width: 67%;
+    margin-left: 14%;
+    padding-top:15%;
+}
+.shortlgborder
+{
+	border-color: transparent;
+	border: none;
+	border-left: none;
+}
+.footlg
+{
+	margin-bottom: -11%;
+}
+.signtxtpos
+{
+	padding-top:25%;
+}
+.signfree
+{
+	margin-top: 40%;
+}
+.signimg
+{
+    width: 59%;
+    padding-left: 19%;
+}
+.telllgimg
+{
+	 width: 59%;
+}
+.signuphead
+{
+	padding-left: 15%;
+}
+.signuptxt
+{
+	padding-top: 35%;
+	width: 80%;
+    margin-left: 5%;
+}
+
+}
+
+/* ----------- iPhone 6 ----------- */
+
+
+/* Portrait*/
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: portrait) { 
+p
+{
+	font-size: 12pt;
+}
+.wel
+{
+	margin-left:-20%;
+	font-size: 15pt;
+}
+.divh2
+{
+	margin-left:0%;
+}
+.pos
+{
+	margin-left: 23%;
+	border-left: 0px;
+}
+.linklg
+{
+	padding-top: 1px;
+}
+.linklgimg
+{
+	width: 60%;
+    margin-left: 19%;
+}
+.buyerimg
+{
+	padding-top:30%;
+	margin-left: 11%;
+    width: 75%;
+}
+.servicelg
+{
+	padding-top: 1px;
+}
+.saferlg
+{
+	padding-top: 1px;
+}
+.saferlgimg
+{
+	padding-top: 7%;
+    width: 53%;
+    margin-left: 23%;
+}
+.epaylg
+{
+	padding-top: 1px;
+}
+
+.epaylgimg
+{
+	width: 53%;
+    margin-left: 20%;
+    padding-top:15%;
+}
+.shortlgborder
+{
+	border-color: transparent;
+	border: none;
+	border-left: none;
+}
+
+.footlg
+{
+	margin-bottom: -11%;
+}
+.signtxtpos
+{
+	padding-top:25%;
+}
+.signimg
+{
+	margin-left: 10%;
+}
+.footermargin
+{
+	margin-top:22%;
+}
+
+}
+/* landscape*/
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (-webkit-min-device-pixel-ratio: 2) and (orientation: landscape) { 
+.wel
+{
+	margin-left: -25%;
+}
+.pos
+{
+	font-size: 11pt;
+    margin-left: 8%;
+}
+.mar
+{
+	margin-top: -7%;
+}
+.myprofile
+{
+	margin-left: 1%;
+    width: 38%;
+}
+h3
+{
+	font-size: 12pt;
+	font-family: "segoe ui";
+	font-weight: lighter;
+}
+p
+{
+	font-size:10pt;
+}
+h2
+{
+	font-size: 24px;
+	font-family: "segoe ui";
+	font-weight: lighter;
+}
+.linklg
+{
+	padding-top: 1px;
+}
+.linklgimg
+{
+	width:40%;
+    margin-left:30%;
+}
+.buyerimg
+{
+	padding-top: 24%;
+	margin-left: 24%;
+    width: 50%;
+}
+.servicelg
+{
+	padding-top: 1px;
+}
+.saferlg
+{
+	padding-top: 1px;
+}
+.saferlgimg
+{
+	padding-top:2%;
+   width: 35%;
+    margin-left: 33%;
+}
+.epaylg
+{
+	padding-top: 1px;
+}
+.epaylgabout
+{
+	padding-left:16%;
+}
+.epaylgimg
+{
+	width: 35%;
+    margin-left: 30%;
+    padding-top:15%;
+}
+.shortlgborder
+{
+	border-color: transparent;
+	border: none;
+	border-left: none;
+}
+.footlg
+{
+	margin-bottom: -11%;
+}
+.signtxtpos
+{
+	padding-top:25%;
+}
+.signfree
+{
+	margin-top:25%;
+}
+.signimg
+{
+   	width: 72%;
+    padding-left: 27%;
+}
+.telllgimg
+{
+	 width: 59%;
+}
+.signuphead
+{
+	padding-left: 15%;
+}
+.signuptxt
+{
+	padding-top: 35%;
+	width: 80%;
+    margin-left: 5%;
+}
+
+
+}
+
+/* ----------- iPhone 6+ ----------- */
+
+/* Portrait */
+@media only screen   and (min-device-width: 414px)   and (max-device-width: 736px)   and (-webkit-min-device-pixel-ratio: 3)and (orientation: portrait) { 
+.myprofile
+{
+	margin-left: 6%;
+    width: 45%;
+}
+.mar
+{
+	margin-top: -7%;
+}
+.wel
+{
+	margin-left: -21%;
+	font-size: 15pt;
+}
+.pos
+{
+	margin-left: 17%;
+	border-left: 0px;
+}
+.linklg
+{
+	padding-top: 1px;
+}
+.linklgimg
+{
+	width: 60%;
+    margin-left: 19%;
+}
+.buyerimg
+{
+	padding-top:30%;
+	margin-left: 14%;
+    width: 70%;
+}
+.servicelg
+{
+	padding-top: 1px;
+}
+.saferlg
+{
+	padding-top: 1px;
+}
+.saferlgimg
+{
+	padding-top: 7%;
+    width:53%;
+    margin-left:23%;
+}
+.epaylg
+{
+	padding-top: 1px;
+}
+.epaylgimg
+{
+	width:52%;
+    margin-left:20%;
+    padding-top:15%;
+}
+.shortlgborder
+{
+	border-color: transparent;
+	border: none;
+	border-left: none;
+}
+.footlg
+{
+	margin-bottom: -11%;
+}
+.signtxtpos
+{
+	padding-top:25%;
+}
+.signimg
+{
+	margin-left: 10%;
+}
+.signuphead
+{
+	padding-left: 15%;
+}
+.signuptxt
+{
+	padding-top: 35%;
+	width: 80%;
+    margin-left: 5%;
+}
+
+
+}
+
+/* Landscape */
+@media only screen   and (min-device-width: 414px)   and (max-device-width: 736px)   and (-webkit-min-device-pixel-ratio: 3)and (orientation: landscape) { 
+.wel
+{
+	margin-left: -24%;
+}
+.pos
+{
+	font-size: 11pt;
+    margin-left:5%;
+}
+.mar
+{
+	margin-top: -7%;
+}
+.myprofile
+{
+	margin-left: 4%;
+    width: 34%;
+}
+h3
+{
+	font-size: 14.5pt;
+	font-family: "segoe ui";
+	font-weight: lighter;
+}
+p
+{
+	font-size:14pt;
+}
+h2
+{
+	font-size:30px;
+	font-family: "segoe ui";
+	font-weight: lighter;
+}
+.linklg
+{
+	padding-top: 1px;
+}
+.linklgimg
+{
+	width:40%;
+    margin-left:30%;
+}
+.buyerimg
+{
+	padding-top: 24%;
+	margin-left: 30%;
+    width: 39%;
+}
+.servicelg
+{
+	padding-top: 1px;
+}
+.saferlg
+{
+	padding-top: 1px;
+}
+.saferlgimg
+{
+	padding-top:5%;
+    width: 30%;
+    margin-left: 33%;
+}
+.epaylg
+{
+	padding-top: 1px;
+}
+.epaylgabout
+{
+	padding-left:16%;
+}
+.epaylgimg
+{
+	width: 30%;
+    margin-left: 30%;
+    padding-top:15%;
+}
+.shortlgborder
+{
+	border-color: transparent;
+	border: none;
+	border-left: none;
+}
+.footlg
+{
+	margin-bottom: -11%;
+}
+.signtxtpos
+{
+	padding-top:25%;
+}
+.signfree
+{
+	margin-top:25%;
+}
+.signimg
+{
+   	width: 72%;
+    padding-left: 27%;
+}
+.telllgimg
+{
+	width: 59%;
+}
+.signuphead
+{
+	padding-left: 15%;
+}
+.signuptxt
+{
+	padding-top: 35%;
+	width: 80%;
+    margin-left: 5%;
+}
+
+
+}
+
+
+
+
+

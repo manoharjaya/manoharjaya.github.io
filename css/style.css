@@ -1,0 +1,113 @@
+h1:first-letter
+{
+  color:#E50C84; 
+}
+
+header
+{
+    font-size: 25pt;
+    color: white;
+    text-align: center;
+    background: #1B1D19;
+    font-family: 'segoe Ui';
+}
+
+label
+{
+  color: white;
+}
+header:first-letter
+{
+  color: #D81B60;
+}
+a
+{
+  color: #828282;
+  text-decoration: none;
+}
+ a:hover:not(.active) 
+ {
+    color: white;
+}
+
+a:focus:not(.active)
+{
+    color: white;
+}
+
+nav
+{
+  font-family: 'segoe ui';
+  font-size: 12pt;  
+}
+p
+{
+    font-size: 13pt;
+    font-family: 'Segoe UI';
+    font-weight: lighter;
+}
+
+h2
+{
+    font-size: 25pt;
+    font-family: 'Segoe UI';
+    font-weight: lighter;
+}
+h3
+{
+    font-size: 22px;
+    font-weight: lighter;
+    font-family: segoe ui;
+}
+.welcome
+{
+  font-family: "Segoe UI";
+  font-weight: lighter;
+  font-size: 25pt;
+  color: white;
+  margin-left: -15%;
+}
+
+.welcome:first-letter
+{
+  color: #E50C84;
+  font-size: 32pt;
+}
+
+.footerfont:first-letter
+{
+  color: #E50C84;
+  font-size:15pt;
+}
+
+
+.signuptextborder
+{
+    border-radius: 0px;
+    border: none;
+    border-bottom: 2px solid;
+    border-color: #E91E63;
+}
+.center
+{
+  text-align: center;
+
+}
+.modal-header, h4, .close {
+      background-color:transparent;
+      color:white !important;
+      text-align: center;
+      font-size: 30px;
+  }
+  .modal-footer {
+      background-color: #f9f9f9;
+  }
+
+
+  .login
+{
+    border: none;
+    border-bottom: 2px solid;
+    border-radius: 0px;
+    border-color: #E91E63;
+}

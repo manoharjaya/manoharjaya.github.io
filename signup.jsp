@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>netPay</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="shortcut icon"  href="img/lock.png" />
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/mobile.css">
+	<link rel="stylesheet" type="text/css" href="css/tablet.css">
+	<link rel="stylesheet" type="text/css" href="css/laptop.css">
+
+</head>
+<body style="background:#18053C">	
+			<header>netPay</header>	
+			<div class=" col-lg-12" style="color:white">
+						<div class="col-lg-7">
+							<h2 class="center secure" style="margin-left:-24%">Secure Trading</h2><br>
+							<p style="margin-left: 20%">Increased safety in online payments <br>
+							Enhanced and simple tracking of your buying activity</p><br><br>
+							<div class="signimg">
+								<div class="col-lg-4">
+									<img src="img/signup_1.png" alt="mobile pay" class="img-responsive">
+								</div>
+								<div class="col-lg-4">
+									<img src="img/signup_2.png" alt="mobile pay" class="img-responsive">
+								</div>
+
+								<div class="col-lg-4">
+									<img src="img/signup_3.png" alt="mobile pay" class="img-responsive">
+								</div>
+							</div>
+							
+						</div>
+						<div class="col-lg-5 col-lg-offset-7 signtxtpos" style="margin-top:-242px;padding-bottom:4%;border-radius:0px;border-left:1px solid;border-color:#403C3C">
+							<div class="col-lg-4" style="width:100%;text-align:center;padding-top:5%">
+								<h3 class="signfree">Sign Up for free</h3>
+								<p>Shop Overseas Payment without Sharing your financial Information</p>
+							</div>
+
+							
+							<form name="Form1" action="signup_2.jsp" method="post">
+							<div class="col-lg-12" style="width:75%;margin-left:13%;margin-top:4%">
+								<input type="email" maxlength="25" minlength="7" autofocus  name="txtsignupemail" required class="form-control signuptextborder" placeholder="Email"><br>	
+								<input type="password" maxlength="10" minlength="8" name="txtsignuppassword" id="txtsignuppassword" required class="form-control signuptextborder" placeholder="Password"><br>
+								<input type="password" maxlength="10" minlength="8" name="txtsignupcon_password" id="txtsignupcon_password" required class="form-control signuptextborder" placeholder="Confirm Password"><br>
+								<button type="submit" name="btncontinue" class="btn btn-default btncontinue"
+								style="width:100%;color:#FFF;background-color:#E91E63;border-color:#E91E63;border-radius:0px">Continue</button>
+							</div>	
+							</form>
+							<script>
+								var password = document.getElementById("txtsignuppassword"), confirm_password = document.getElementById("txtsignupcon_password");
+
+								function validatePassword(){
+								  if(password.value != confirm_password.value) {
+								    confirm_password.setCustomValidity("Passwords Don't Match");
+								  } else {
+								    confirm_password.setCustomValidity('');
+								  }
+								}
+
+								password.onchange = validatePassword;
+								confirm_password.onkeyup = validatePassword;
+							</script>
+									
+						</div>
+		</div>
+		 <div class="col-lg-12 footlg"  style="margin-top:10%;background:black;padding:50px 50px 50px 50px;border-top: 1px solid">
+		    <div class="mar">
+		      <p style="color:#928F8F;float:left;padding-top:4px">Copyright@</p>
+		      <p class="footerfont" style="color:white">netPay.com</p>
+		      <p>All Rights Reserved.<br>Developed by manohar- Software Developer</p>
+		    </div>  
+		</div>
+</body>
+</html>
